@@ -1,3 +1,9 @@
+Name: Sobar Danil 
+Group: PO 25-Z 
+Date: 13.09.26
+
+
+
 # import html
 # import re
 # import socket
